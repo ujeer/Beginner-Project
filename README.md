@@ -19,13 +19,15 @@ A simple and interactive **Tic-Tac-Toe** game built with HTML, CSS, and JavaScri
 ## 🚀 Getting Started
 
 1. Clone this repository:
-   
-bash
-   git clone https://github.com/ujeer/Beginner-Project.git
+     ```sh
+      git clone https://github.com/ujeer/Beginner-Project.git  
+   ```
+     
 2.  Navigate to the Tic-Tac-Toe folder:
-sh
-   cd Beginner-Project/tictactoe
-   
+       ```sh
+      cd Beginner-Project/tictactoe  
+      ```
+
 3. Open the `index.html` file in your browser.
 
 📸 Screenshot
